@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "removeComments": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "lib/*.js"
+  ]
+}
